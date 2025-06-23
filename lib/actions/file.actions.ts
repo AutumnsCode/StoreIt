@@ -108,3 +108,4 @@ export const renameFile = async ({ fileId, name, extension, path }: RenameFilePr
     handleError(error, "Failed to rename file")
   }
 }
+
